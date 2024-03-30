@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Zx0di4c
-- this git is handeled by lionel
-- 🌱 I’m currently learning ... front end developemeny
+
   This our new project by team 4
   -ayush
   -lionel
