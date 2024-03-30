@@ -9,7 +9,7 @@
   -jasmine
   -najia
   -shana sherin
-  
+  This project is about online examination system through c++ it contains login page etc it is created only through c++
 
 
 <!---
